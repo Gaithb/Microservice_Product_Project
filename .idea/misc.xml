@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
+<projec
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
-<<<<<<< Updated upstream
-=======
+
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
@@ -15,9 +14,26 @@
         <option value="$PROJECT_DIR$/product-service/pom.xml" />
       </set>
     </option>
->>>>>>> Stashed changes
+
   </component>
   <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/out" />
+
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/inventory-service/pom.xml" />
+      </set>
+    </option>
   </component>
-</project>
+  
+
+    
+  
